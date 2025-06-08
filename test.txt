@@ -2,7 +2,6 @@
 깃허브 원격에서 편집 수정함
 good git world
 파인더에서 글 수정함
-<<<<<<< HEAD
 pull request test
 =======
 bitbucket에 포크후 작업함
